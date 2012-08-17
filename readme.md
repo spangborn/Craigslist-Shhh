@@ -1,4 +1,4 @@
-# Craigslist-Shh... #
+# Craigslist-Shhh... #
 - is a Greasemonkey Script intended to silence screaming Craigslist posters.
 
 
