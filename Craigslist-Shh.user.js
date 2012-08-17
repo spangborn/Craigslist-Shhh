@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Remove All-Caps Craigslist Postings
+// @name          Craigslist-Shhh
 // @description   Removes any posting on a Craigslist page that are all-caps
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
 // @include       http://*.craigslist.org/*
